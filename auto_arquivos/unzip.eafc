@@ -1,0 +1,373 @@
+<!DOCTYPE html PUBLIC "-\/\/W3C\/\/DTD XHTML 1\.0 Transitional\/\/EN" "http:\/\/www\.w3\.org\/TR\/xhtml1\/DTD\/xhtml1-transitional\.dtd">
+<html xmlns="http:\/\/www\.w3\.org\/1999\/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text\/html; charset=iso-8859-1" \/>
+<meta http-equiv="content-language" content="pt" \/>
+<meta name= "author"  content="www\.narutoplayers\.com" \/>
+<meta name="description" content="Naruto Players - O melhor jogo on-line de Naruto totalmente gratuíto para você!" \/>
+<meta name="keywords" content="naruto,Naruto,NARUTO,sasuke,Sasuke,SASUKE,uchiha,itachi,sakura,Sakura,SAKURA,kakashi,Kakashi,KAKASHI,rock lee,hokage,konoha,sannin,sennin,orochimaru,akatsuki,uzumaki,Uzumaki,UZUMAKI,game,jogo,jogos,anime,jogo do naruto,game do naruto,jogo de naruto,game do naruto,game de naruto,anime,mangá,gratis,on-line" \/>
+<link rel="shortcut icon" href="_img\/_interface\/favicon\.ico" \/>
+<title>:: narutoPLAYERS - 2\.0 - Aqui você é um ninja de verdade!<\/title>
+<link href="_css\/estilo_principal\.css" rel="stylesheet" type="text\/css" media="screen" \/>
+<link href="_css\/box_novo\.css" rel="stylesheet" type="text\/css" media="screen" \/>
+<script src="Scripts\/swfobject_modified\.js" type="text\/javascript"><\/script>
+<script language="javascript" type="text\/javascript">
+	<!-- 
+function changePage\(\) \{
+	if \(self\.parent\.frames\.length != 0\)\{
+		self\.parent\.location="http:\/\/server04\.narutoplayers\.com";
+	\}
+\}
+\/\/ -->
+<\/script>
+<style media="all" type="text\/css">
+#wau_tab_container\{
+	visibility:hidden;	
+\}
+<\/style>
+<\/head>
+<body >
+<script type="text\/javascript" language="javascript">changePage\(\);<\/script>
+<div id="div_principal"><!-- DIV QUE CONTEM TODA A ESTRUTURA DO SITE -->
+<div id="banner_principal"><!-- DIV COM O BANNER DE CABEÇALHO DO SITE -->
+	  <div id="idiomas"><!-- DIV COM OS POSSÍVEIS IDIOMAS -->
+          <a href="\?p=status&idioma=pt"><img src="_img\/_idiomas\/brasil\.gif" alt="Portugu&ecirc;s" width="20" height="14" border="0" \/><\/a> <a href="\?p=status&amp;idioma=es"><img src="_img\/_idiomas\/espanhol\.gif" alt="Espa&ntilde;ol" width="20" height="14" border="0" \/><\/a><\/div>
+		<!-- FIM DIV COM OS POSSÍVEIS IDIOMAS -->
+		
+  <\/div><!-- FIM DIV COM O BANNER DE CABEÇALHO DO SITE -->
+	<div id="fundo_banner_google"><!-- DIV COM O BANNER GOOGLE -->
+		<div id="google_728x90">
+        
+<script type="text\/javascript"><!--
+google_ad_client = "pub-1157622445922892";
+\/\* 728x90, criado 10\/02\/08 \*\/
+google_ad_slot = "5936446883";
+google_ad_width = 728;
+google_ad_height = 90;
+\/\/-->
+<\/script>
+<script type="text\/javascript"
+src="http:\/\/pagead2\.googlesyndication\.com\/pagead\/show_ads\.js">
+<\/script>
+		<\/div>
+	<\/div><!-- FIM DA DIV COM O BANNER GOOGLE -->
+  <div id="fundo_menu_principal"><!-- DIV DO MENU PRINCIPAL -->
+		<div id="menu"><!-- DIV DO MENU PRINCIPAL CONTEÚDO -->
+		  
+		  		  <a href="\?p=news">News<\/a> \| <a href="\?p=status">Status<\/a> \| <a href="\?p=cla">Clã<\/a> \| <a href="\?p=mensagens">Mensagens \(1\)<\/a> \| <a href="\?p=ichiraku">Ichiraku<\/a> \| <a href="\?p=missoes">Missões<\/a> \| <a href="\?p=cacadas">Caçadas<\/a> \| <a href="\?p=armas">Armas<\/a> \| <a href="\?p=elementos">Elementos<\/a> \| <a href="\?p=perfil">Perfil<\/a>\| <a href="\?p=logout">Logout<\/a> <br \/>
+		  <a href="\?p=mercado">Mercado<\/a> \| <a href="\?p=vote">Vote<\/a> \| <a href="\?p=ranking">Ranking<\/a> \| <a href="\?p=doador">Premium<\/a> \| <a href="\?p=manual">Manual<\/a> \|  <a href="http:\/\/www\.orkut\.com\.br\/Community\.aspx\?cmm=43685168" target="_blank">Orkut<\/a> \| <a href="\?p=contato">Contato<\/a> \| <a href="\?p=publicidade">Publicidade<\/a>   \| <a href="\?p=faq">F\.A\.Q<\/a> <br \/>
+<\/div>
+<div id="div" align="center" style="position:relative;top:28px;height:15px;">
+            <!-- NARUTO, naruto \/\/-->
+<script type="text\/javascript"><!--
+google_ad_client = "pub-1157622445922892";
+\/\* 468x15, criado 27\/01\/08 \*\/
+google_ad_slot = "8688130786";
+google_ad_width = 468;
+google_ad_height = 15;
+\/\/-->
+<\/script>
+<script type="text\/javascript"
+src="http:\/\/pagead2\.googlesyndication\.com\/pagead\/show_ads\.js">
+<\/script>
+    <\/div>
+	<!-- FIM DA DIV DO MENU PRINCIPAL CONTEÚDO -->
+  <\/div> <!-- FIM DA DIV DO MENU PRINCIPAL -->
+  <div id="sombra_baixo_menu"><!-- DIV COM A SOMBRA INFERIOR DO MENU -->
+  <\/div><!-- FIM DIV COM A SOMBRA INFERIOR DO MENU -->
+  <div id="conteudo"><!-- DIV COM O CONTEÚDO -->
+  	<div id="motor_game">
+  	  <div id="col_esquerda">
+				  <a href="\?p=status"><img src="_img\/_personagens\/jiraiya\/1\.jpg" width="163" height="174" border="0" \/><\/a><br \/>
+		  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http:\/\/download\.macromedia\.com\/pub\/shockwave\/cabs\/flash\/swflash\.cab#version=7,0,19,0" width="163" height="80">
+            <param name="movie" value="_img\/_vilas\/3\.swf" \/>
+            <param name="quality" value="best" \/>
+            <embed src="_img\/_vilas\/3\.swf" quality="best" pluginspage="http:\/\/www\.macromedia\.com\/go\/getflashplayer" type="application\/x-shockwave-flash" width="163" height="80"><\/embed>
+	    <\/object>
+		  		  
+<table border="0" cellspacing="0" cellpadding="0">
+
+  <tr>
+
+    <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_01\.jpg" width="18" height="32" \/><\/td>
+
+    <td class="box_preto_novo_pequeno_sup"><table border="0" cellspacing="0" cellpadding="0">
+
+      <tr>
+
+        <td><img src="_img\/_interface\/new_box_simples\/logo_simples\.jpg" width="23" height="32" \/><\/td>
+
+        <td style="padding-top:3px;">&nbsp;LINKS<\/td>
+
+      <\/tr>
+
+    <\/table><\/td>
+
+    <td><span class="box_preto_novo_sup_dir"><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_03\.jpg" width="22" height="32" \/><\/span><\/td>
+
+  <\/tr>
+
+  <tr>
+
+    <td valign="top" class="box_preto_simples_lateral_esq"><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_05\.jpg" width="18" height="32" \/><\/td>
+
+    <td class="box_preto_cor_central"><div align="center" style="height:90px;">
+    <script type="text\/javascript"><!--
+google_ad_client = "pub-1157622445922892";
+\/\* 120x90, criado 17\/04\/08 \*\/
+google_ad_slot = "2522914585";
+google_ad_width = 120;
+google_ad_height = 90;
+\/\/-->
+<\/script>
+<script type="text\/javascript"
+src="http:\/\/pagead2\.googlesyndication\.com\/pagead\/show_ads\.js">
+<\/script>
+    <\/div><\/td>
+
+    <td class="box_preto_simples_lateral_dir">&nbsp;<\/td>
+
+  <\/tr>
+
+  <tr>
+
+    <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_12\.jpg" width="18" height="21" \/><\/td>
+
+    <td><img src="_img\/_interface\/new_box_simples\/simples_bottom\.jpg" width="123" height="21" \/><\/td>
+
+    <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_16\.jpg" width="22" height="21" \/><\/td>
+
+  <\/tr>
+
+<\/table>
+
+<table border="0" cellspacing="0" cellpadding="0">
+
+  <tr>
+
+    <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_01\.jpg" width="18" height="32" \/><\/td>
+
+    <td class="box_preto_novo_pequeno_sup"><table border="0" cellspacing="0" cellpadding="0">
+
+      <tr>
+
+        <td><img src="_img\/_interface\/new_box_simples\/logo_simples\.jpg" width="23" height="32" \/><\/td>
+
+        <td style="padding-top:3px;">&nbsp;LINKS<\/td>
+
+      <\/tr>
+
+    <\/table><\/td>
+
+    <td><span class="box_preto_novo_sup_dir"><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_03\.jpg" width="22" height="32" \/><\/span><\/td>
+
+  <\/tr>
+
+  <tr>
+
+    <td valign="top" class="box_preto_simples_lateral_esq"><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_05\.jpg" width="18" height="32" \/><\/td>
+
+    <td class="box_preto_cor_central"><div align="center" style="height:600px;">
+<script type="text\/javascript"><!--
+google_ad_client = "pub-1157622445922892";
+\/\* 120x600, criado 11\/08\/08 \*\/
+google_ad_slot = "6105908899";
+google_ad_width = 120;
+google_ad_height = 600;
+\/\/-->
+<\/script>
+<script type="text\/javascript"
+src="http:\/\/pagead2\.googlesyndication\.com\/pagead\/show_ads\.js">
+<\/script>
+    <\/div><\/td>
+
+    <td class="box_preto_simples_lateral_dir">&nbsp;<\/td>
+
+  <\/tr>
+
+  <tr>
+
+    <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_12\.jpg" width="18" height="21" \/><\/td>
+
+    <td><img src="_img\/_interface\/new_box_simples\/simples_bottom\.jpg" width="123" height="21" \/><\/td>
+
+    <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_16\.jpg" width="22" height="21" \/><\/td>
+
+  <\/tr>
+
+<\/table>
+
+
+
+
+
+<\/div>
+		<div id="col_direita">
+		  <table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_01\.jpg" width="18" height="32" \/><\/td>
+              <td class="box_preto_novo_simples_sup"><table border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><img src="_img\/_interface\/new_box_simples\/logo_simples\.jpg" width="23" height="32" \/><\/td>
+                    <td style="padding-top:3px;">&nbsp;narutoPLAYERS\.com<\/td>
+                  <\/tr>
+              <\/table><\/td>
+              <td><span class="box_preto_novo_sup_dir"><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_03\.jpg" width="22" height="32" \/><\/span><\/td>
+            <\/tr>
+            <tr>
+              <td valign="top" class="box_preto_simples_lateral_esq"><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_05\.jpg" width="18" height="32" \/><\/td>
+              <td class="box_preto_cor_central"><div align="center"><iframe src="http:\/\/smartad\.mercadolivre\.com\.br\/jm\/SmartAd\?tool=5566305&creativity=423809&new=N&ovr=N&bgcol=FFFFFF&brdcol=000000&txtcol=006600&lnkcol=0000FF&hvrcol=FF0000&prccol=FF0000&word=Jogos&word=Notebooks&word=Video games&site=MLB" 
+width="468" height="60" scrolling="no" frameborder="0" marginheight="0" marginwidth="0">
+<\/iframe>              <\/div><\/td>
+              <td class="box_preto_simples_lateral_dir">&nbsp;<\/td>
+            <\/tr>
+            <tr>
+              <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_12\.jpg" width="18" height="21" \/><\/td>
+              <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_13\.jpg" width="514" height="21" \/><\/td>
+              <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_16\.jpg" width="22" height="21" \/><\/td>
+            <\/tr>
+          <\/table>
+		  <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_01\.jpg" width="18" height="32" \/><\/td>
+    <td class="box_preto_novo_simples_sup"><table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="_img\/_interface\/new_box_simples\/logo_simples\.jpg" width="23" height="32" \/><\/td>
+        <td style="padding-top:3px;">&nbsp;Melhorar habilidades de Reininja<\/td>
+      <\/tr>
+    <\/table><\/td>
+    <td><span class="box_preto_novo_sup_dir"><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_03\.jpg" width="22" height="32" \/><\/span><\/td>
+  <\/tr>
+  <tr>
+    <td valign="top" class="box_preto_simples_lateral_esq"><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_05\.jpg" width="18" height="32" \/><\/td>
+    <td class="box_preto_cor_central"><div class="descricao_box">
+      Aqui você pode melhorar suas habilidades\.    <\/div>
+        <div class="box_preto_separador">&nbsp;<\/div>
+              <table border="0" cellspacing="0" cellpadding="0" class="box_largura_100">
+          <tr class="box_preto_tarja">
+            <td>Ryous:<\/td>
+            <td colspan="4">\| 414,00<\/td>
+          <\/tr>
+
+          <tr>
+            <td>Taijutsu:<\/td>
+            <td width="260"><img src="_img\/_box\/barras\/verde\/ponta_barra\.jpg" width="16" height="26" \/><img src="_img\/_box\/barras\/verde\/barra_centro\.jpg" width="213" height="26" \/><img src="_img\/_box\/barras\/verde\/fim_barra\.jpg" width="19" height="26" \/><\/td>
+            <td>\[<strong>29<\/strong>\]<\/td>
+            <td>Valor: <strong>1\.463,00<\/strong><\/td>
+            <td><form id="tai" name="tai" method="post" action="\?p=habilidades" onsubmit="this\.ok1\.disabled=true;">
+              <input name="ok1" type="submit" id="ok1" value="ok" style="background:url\(_img\/_box\/botoes\/bt\.jpg\); background-position:center; color: #5f1010; border: 1px #ffcc99 solid; font-weight:bold;"\/>
+              <input name="treino" type="hidden" id="treino" value="1" \/>
+            <\/form><\/td>
+          <\/tr>
+          <tr>
+            <td>Ninjutsu:<\/td>
+            <td><img src="_img\/_box\/barras\/azul\/ponta_barra\.jpg" width="16" height="26" \/><img src="_img\/_box\/barras\/azul\/barra_centro\.jpg" width="220" height="26" \/><img src="_img\/_box\/barras\/azul\/fim_barra\.jpg" width="19" height="26" \/><\/td>
+            <td>\[<strong>30<\/strong>\]<\/td>
+            <td>Valor: <strong>1\.566,00<\/strong><\/td>
+            <td><form id="nin" name="nin" method="post" action="\?p=habilidades" onsubmit="this\.ok2\.disabled=true;">
+              <input name="ok2" type="submit" id="ok2" value="ok" style="background:url\(_img\/_box\/botoes\/bt\.jpg\); background-position:center; color: #5f1010; border: 1px #ffcc99 solid; font-weight:bold;"\/>
+              <input name="treino" type="hidden" id="treino" value="2" \/>
+            <\/form><\/td>
+          <\/tr>
+          <tr>
+            <td>Genjutsu:<\/td>
+            <td><img src="_img\/_box\/barras\/roxo\/ponta_barra\.jpg" width="16" height="26" \/><img src="_img\/_box\/barras\/roxo\/barra_centro\.jpg" width="205" height="26" \/><img src="_img\/_box\/barras\/roxo\/fim_barra\.jpg" width="19" height="26" \/><\/td>
+            <td>\[<strong>28<\/strong>\]<\/td>
+            <td>Valor: <strong>1\.364,00<\/strong><\/td>
+            <td><form id="gen" name="gen" method="post" action="\?p=habilidades" onsubmit="this\.ok3\.disabled=true;">
+              <input name="ok3" type="submit" id="ok3" value="ok" style="background:url\(_img\/_box\/botoes\/bt\.jpg\); background-position:center; color: #5f1010; border: 1px #ffcc99 solid; font-weight:bold;"\/>
+              <input name="treino" type="hidden" id="treino" value="3" \/>
+            <\/form><\/td>
+          <\/tr>
+          <tr>
+            <td>Inteligência:<\/td>
+            <td><img src="_img\/_box\/barras\/vermelho\/ponta_barra\.jpg" width="16" height="26" \/><img src="_img\/_box\/barras\/vermelho\/barra_centro\.jpg" width="205" height="26" \/><img src="_img\/_box\/barras\/vermelho\/fim_barra\.jpg" width="19" height="26" \/><\/td>
+            <td>\[<strong>28<\/strong>\]<\/td>
+            <td>Valor: <strong>1\.364,00<\/strong><\/td>
+            <td><form id="int" name="int" method="post" action="\?p=habilidades" onsubmit="this\.ok4\.disabled=true;">
+              <input name="ok4" type="submit" id="ok4" value="ok" style="background:url\(_img\/_box\/botoes\/bt\.jpg\); background-position:center; color: #5f1010; border: 1px #ffcc99 solid; font-weight:bold;"\/>
+              <input name="treino" type="hidden" id="treino" value="4" \/>
+            <\/form><\/td>
+          <\/tr>
+      <\/table>
+		<div class="box_preto_separador">&nbsp;<\/div>
+		<span class="descricao_box">
+		Quanto mais alto for o nível da habilidade, mais caro ficará para melhorá-la\.		<\/span><\/td>
+    <td class="box_preto_simples_lateral_dir">&nbsp;<\/td>
+  <\/tr>
+  <tr>
+    <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_12\.jpg" width="18" height="21" \/><\/td>
+    <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_13\.jpg" width="514" height="21" \/><\/td>
+    <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_16\.jpg" width="22" height="21" \/><\/td>
+  <\/tr>
+<\/table>
+	      <table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_01\.jpg" width="18" height="32" \/><\/td>
+              <td class="box_preto_novo_simples_sup"><table border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><img src="_img\/_interface\/new_box_simples\/logo_simples\.jpg" width="23" height="32" \/><\/td>
+                    <td style="padding-top:3px;">&nbsp;narutoPLAYERS\.com<\/td>
+                  <\/tr>
+              <\/table><\/td>
+              <td><span class="box_preto_novo_sup_dir"><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_03\.jpg" width="22" height="32" \/><\/span><\/td>
+            <\/tr>
+            <tr>
+              <td valign="top" class="box_preto_simples_lateral_esq"><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_05\.jpg" width="18" height="32" \/><\/td>
+              <td class="box_preto_cor_central"><div class="box_preto_separador">&nbsp;<\/div>
+                  <div align="center"><iframe src="http:\/\/smartad\.mercadolivre\.com\.br\/jm\/SmartAd\?tool=5566305&creativity=423809&new=N&ovr=N&bgcol=FFFFFF&brdcol=000000&txtcol=006600&lnkcol=0000FF&hvrcol=FF0000&prccol=FF0000&word=Jogos&word=Notebooks&word=Video games&site=MLB" 
+width="468" height="60" scrolling="no" frameborder="0" marginheight="0" marginwidth="0">
+<\/iframe><\/div>
+              <\/td>
+              <td class="box_preto_simples_lateral_dir">&nbsp;<\/td>
+            <\/tr>
+            <tr>
+              <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_12\.jpg" width="18" height="21" \/><\/td>
+              <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_13\.jpg" width="514" height="21" \/><\/td>
+              <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_16\.jpg" width="22" height="21" \/><\/td>
+            <\/tr>
+          <\/table>
+                <\/div>
+	<\/div>
+	<div id="limpa_float">
+	  <table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_01\.jpg" width="18" height="32" \/><\/td>
+          <td class="box_preto_novo_termos_sup"><table border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><img src="_img\/_interface\/new_box_simples\/logo_simples\.jpg" width="23" height="32" \/><\/td>
+                <td style="padding-top:3px;">&nbsp;Termos legais<\/td>
+              <\/tr>
+          <\/table><\/td>
+          <td><span class="box_preto_novo_sup_dir"><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_03\.jpg" width="22" height="32" \/><\/span><\/td>
+        <\/tr>
+        <tr>
+          <td valign="top" class="box_preto_simples_lateral_esq"><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_05\.jpg" width="18" height="32" \/><\/td>
+          <td class="box_preto_cor_central"><div class="descricao_box">A participação no jogo <strong>narutoPLAYERS - 2\.0<\/strong> é totalmente gratuita e sem nenhum compromisso\. Temos como meta fazer nosso papel de fãs da série e ajudar na divulgação gratuita e propagação do anime de uma forma em que pessoas possam fazer amizades por meio de nós\. Salientamos que narutoPLAYERS - 2\.0 é um fã site e os direitos autorais desta obra estão reservados ao criador da série japonesa\. Todos os direitos sobre NARUTO são reservados a Masashi Kishimoto\.<br \/>Todo e qualquer lucro obtido neste site são empregados na manutenção do mesmo em despesas com servidores e desenvolvimento e programação do jogo\.<br \/>Todas as marcas, logos, nomes e desenhos aqui exibidos\/divulgados são propriedades de seus respectivos criadores e o que fazemos aqui é uma mera divulgação gratuita\.<\/div><\/td>
+          <td class="box_preto_simples_lateral_dir">&nbsp;<\/td>
+        <\/tr>
+        <tr>
+          <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_12\.jpg" width="18" height="21" \/><\/td>
+          <td><img src="_img\/_interface\/new_box_simples\/bottom_termos\.jpg" width="680" height="21" \/><\/td>
+          <td><img src="_img\/_interface\/new_box_simples\/fundo_box_simples_16\.jpg" width="22" height="21" \/><\/td>
+        <\/tr>
+      <\/table>
+    <\/div>
+  <\/div><!-- FIM DA DIV COM O CONTEÚDO -->
+  <div id="sombra_rodape"><!-- DIV COM A SOMBRA DO RODAPÉ -->
+  <script type="text\/javascript" src="http:\/\/widgets\.amung\.us\/tab\.js"><\/script><script type="text\/javascript">WAU_tab\('90bujh1rtb8d', 'left-middle'\)<\/script>
+  <\/div><!-- FIM DA DIV COM A SOMBRA DO RODAPÉ -->
+  <div id="rodape"><!-- DIV COM RODAPÉ -->
+  	<div id="conteudo_rodape"><!-- DIV COM CONTEÚDO DO RODAPÉ -->
+	Jogo e sistemas &copy; CopyRight 2007 by www\.narutoplayers\.com - Todos os direitos reservados\.<br \/>
+Personagens e desenhos &copy; CopyRight 2002 by Masashi Kishimoto - Todos os   direitos reservados\.<\/div>
+  	<!-- FIM DA DIV COM CONTEÚDO DO RODAPÉ -->
+  <\/div><!-- FIM DA DIV COM RODAPÉ -->
+<\/div><!-- FIM DA DIV QUE CONTEM TODA A ESTRUTURA DO SITE -->
+<script type="text\/javascript">
+<!--
+swfobject\.registerObject\("FlashID"\);
+\/\/-->
+<\/script>
+<\/body>
+<\/html>
